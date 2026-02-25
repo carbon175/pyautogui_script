@@ -1,0 +1,10 @@
+{
+  "power": [
+    "power.png 0.6",
+    "power_alt.png 0.7"
+  ],
+  "gray_power": [
+    "gray_power.png 0.6",
+    "gray_power_alt.png 0.65"
+  ]
+}
