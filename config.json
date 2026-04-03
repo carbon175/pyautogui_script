@@ -1,10 +1,16 @@
 {
-  "power": [
-    "power.png 0.6",
-    "power_alt.png 0.7"
+  "bug": [
+    "bug1.png 0.8",
+    "bug2.png 0.8",
+    "bug3.png 0.8",
+    "bug4.png 0.8",
+    "bug5.png 0.8",
+    "bug6.png 0.8"
   ],
-  "gray_power": [
-    "gray_power.png 0.6",
-    "gray_power_alt.png 0.65"
-  ]
+  "whistle": "whistle.png 0.8",
+  "ball": "ball.png 0.8",
+  "turn": "turn.png 0.9",
+  "beetle": "beetle.png 0.8",
+  "candy": "candy.png 0.8",
+  "war": "war.png 0.85"
 }
